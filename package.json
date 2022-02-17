@@ -1,0 +1,5 @@
+{
+  "name": "AppTestForHeroku",
+  "private": true,
+  "dependencies": {}
+}
